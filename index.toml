@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/polymer/auto-host.json"
+hash = "0d4128c6c0dd3ff7920a56e1c71bb081fce116c1373e98e6a1c93d38043cbab4"
+
+[[files]]
 file = "mods/afkplus.pw.toml"
 hash = "82f69723e2ea9e18af343d72ebea35a0ccb0c4d9b506ce63c894f99201e9c3b1"
 metafile = true
