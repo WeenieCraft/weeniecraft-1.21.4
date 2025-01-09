@@ -1,0 +1,13 @@
+name = "WeenieCraft 1.21.4"
+author = "Morgan H."
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "37aa3d86d1ce32ee25e5890e5b1b903358295b9832736cb2aa7f3ad30a235a8d"
+
+[versions]
+fabric = "0.16.9"
+minecraft = "1.21.4"

@@ -1,0 +1,13 @@
+name = "Fast Path"
+filename = "fast-path-v1.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/46LUFaoj/versions/GtAipJY6/fast-path-v1.7.jar"
+hash-format = "sha1"
+hash = "df237f57cc12d78d82678526209f62f02daf2183"
+
+[update]
+[update.modrinth]
+mod-id = "46LUFaoj"
+version = "GtAipJY6"

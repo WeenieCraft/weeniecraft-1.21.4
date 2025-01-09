@@ -1,0 +1,13 @@
+name = "Bound!"
+filename = "bound!-1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5u5wg6uM/versions/Ep3icpVg/bound%21-1.2.jar"
+hash-format = "sha1"
+hash = "8b5d638e2eff587b684e00b6d36ef9eafca7d75d"
+
+[update]
+[update.modrinth]
+mod-id = "5u5wg6uM"
+version = "Ep3icpVg"
