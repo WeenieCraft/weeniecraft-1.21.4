@@ -31,6 +31,11 @@ hash = "9e60eb32574d2cdcb421ccc6a4dfb46ca289254887a9bded9677d0f3460a452c"
 metafile = true
 
 [[files]]
+file = "mods/better-fabric-console.pw.toml"
+hash = "4b2dce62f15d2c26d46e8f28224c8649e4dedba16d46f3e6910589d97f0d1b6b"
+metafile = true
+
+[[files]]
 file = "mods/bound!.pw.toml"
 hash = "3a02574eff027a7977af26d1987fb41d40dd48925fff6781c67ec34aadb8eb07"
 metafile = true
