@@ -1,0 +1,13 @@
+name = "slab back"
+filename = "slab-back 1.6.0.zip"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/l0JYwJHY/versions/yUz77GXc/slab-back%201.6.0.zip"
+hash-format = "sha1"
+hash = "3c9e6b537ca7c77c28ca3014fa67566b49805a69"
+
+[update]
+[update.modrinth]
+mod-id = "l0JYwJHY"
+version = "yUz77GXc"

@@ -1,0 +1,13 @@
+name = "SimpleDrawer"
+filename = "SimpleDrawer-v2.4.1-Datapack-Bundled.zip"
+side = "server"
+
+[download]
+url = "hhttps://cdn.modrinth.com/data/JmCxCKiW/versions/s5BQQuMq/SimpleDrawer-v2.4.1-Datapack-Bundled.zip"
+hash-format = "sha1"
+hash = "b4f0adc1cddd634f27252b9fc8b7e72a78a34d3c"
+
+[update]
+[update.modrinth]
+mod-id = "JmCxCKiW"
+version = "s5BQQuMq"
