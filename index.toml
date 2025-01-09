@@ -290,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "world/datapacks/simpledrawer.pw.toml"
-hash = "6e958a5037b3949ca4b2c8ba9d4f1b3ebf5dddab7d2dab6be83860ebe3f65d71"
+hash = "9754f2baa74d6acfb8b79cace82ac97d036655e31486d319e40e7e516c62db82"
 metafile = true
 
 [[files]]
