@@ -5,6 +5,10 @@ file = "config/polymer/auto-host.json"
 hash = "0d4128c6c0dd3ff7920a56e1c71bb081fce116c1373e98e6a1c93d38043cbab4"
 
 [[files]]
+file = "config/polymer/resource-pack.json"
+hash = "10747b4bfa11fbfc014acc2d8777c2065703b8131504f7d21297d5da8fb18920"
+
+[[files]]
 file = "mods/afkplus.pw.toml"
 hash = "82f69723e2ea9e18af343d72ebea35a0ccb0c4d9b506ce63c894f99201e9c3b1"
 metafile = true
@@ -267,4 +271,34 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "7025706e3c3bb9191adac64a3eada81bc31711be08b4bdc4324fc05789a2076a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/simpledrawer-rp.pw.toml"
+hash = "d876ac7c1457fb9b53b0d645df85272b6a027b6215ce40dcb6c61cd23732720b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/waystones-rp.pw.toml"
+hash = "95c7e6c6ed4af5454363a7edb05a487deecd27e81bb37da5cb2283eda21cedb6"
+metafile = true
+
+[[files]]
+file = "world/datapacks/racks.pw.toml"
+hash = "3d4e74e8961548fb21878b786c39c298f6951b2d0bd16b912e12076c4d3beb5e"
+metafile = true
+
+[[files]]
+file = "world/datapacks/simpledrawer.pw.toml"
+hash = "6e958a5037b3949ca4b2c8ba9d4f1b3ebf5dddab7d2dab6be83860ebe3f65d71"
+metafile = true
+
+[[files]]
+file = "world/datapacks/slab-back.pw.toml"
+hash = "d7928ef9c9d52c43299db87f0851b94fafbce02c057c8de5a610efe3c85ee2cf"
+metafile = true
+
+[[files]]
+file = "world/datapacks/waystones-data-pack.pw.toml"
+hash = "6f07792f18ace0f6042977c737445151568de9189767d95a0a2efe7e1a1a8673"
 metafile = true
