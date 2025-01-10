@@ -1,12 +1,44 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/afkplus.json"
+hash = "259773ed4090b483b4999ae361dfab035176c061b8afae3b38a8b17ccea40eb4"
+
+[[files]]
+file = "config/fallingtree.json"
+hash = "250adbd371d9f76d183532907163bac8a26270b344fec90a2e686e49a9d6b08b"
+
+[[files]]
+file = "config/huskhomes/config.yml"
+hash = "def7236561c8963d20ddf57874585bd6cbb8c7fe4de51e2c59ba6ed4c2fe710b"
+
+[[files]]
+file = "config/pl3xmap/colors.yml"
+hash = "f6fd3c771a461cf2d6b621955b5285f8e9145103bdbc1e60ac67965fd7eecc6a"
+
+[[files]]
+file = "config/pl3xmap/config.yml"
+hash = "1266f23877130029d5f0db5d5b20a43759e7e345d2af7921eb1d1f9bb88de99e"
+
+[[files]]
 file = "config/polymer/auto-host.json"
 hash = "0d4128c6c0dd3ff7920a56e1c71bb081fce116c1373e98e6a1c93d38043cbab4"
 
 [[files]]
 file = "config/polymer/resource-pack.json"
 hash = "10747b4bfa11fbfc014acc2d8777c2065703b8131504f7d21297d5da8fb18920"
+
+[[files]]
+file = "config/sleepwarp.json"
+hash = "20c29232351c8dfded5a2050c0f573f3ccd28e3c129d88cff2a2ef78393e48fb"
+
+[[files]]
+file = "config/towns_and_towers/structure_rarity_new.json5"
+hash = "51412244d1c63750310801df71ab96175df919195852f501278ca76923bce804"
+
+[[files]]
+file = "config/universal-graves/config.json"
+hash = "bd7d1dbe21e7cfda1a14d22ff6b3fbdfdf3426d5ab8cf52d7a4e6801f657edad"
 
 [[files]]
 file = "mods/afkplus.pw.toml"
@@ -282,6 +314,10 @@ metafile = true
 file = "resourcepacks/waystones-rp.pw.toml"
 hash = "95c7e6c6ed4af5454363a7edb05a487deecd27e81bb37da5cb2283eda21cedb6"
 metafile = true
+
+[[files]]
+file = "server.properties"
+hash = "a6da4dbc7b333f92c7c54b0c6aa07aa369439ed9c403f89c9c3e016bf6f7cdac"
 
 [[files]]
 file = "world/datapacks/racks.pw.toml"
