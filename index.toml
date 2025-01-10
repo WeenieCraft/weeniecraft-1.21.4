@@ -236,6 +236,11 @@ hash = "b1c597e04ce532bda04aa592c54ba39689fe85d4bba5ccab9de30f44de7d2438"
 metafile = true
 
 [[files]]
+file = "mods/rei.pw.toml"
+hash = "08258b2939f52cf81b758a30be31eb7fea11ad9919adf7644518d7fafd7efb34"
+metafile = true
+
+[[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "f1b69cfbe473b18ec63eebf75d588976d1e6ae863f0330592fb6f2ff8e0497dd"
 metafile = true
