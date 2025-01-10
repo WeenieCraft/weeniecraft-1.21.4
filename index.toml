@@ -18,7 +18,7 @@ hash = "f6fd3c771a461cf2d6b621955b5285f8e9145103bdbc1e60ac67965fd7eecc6a"
 
 [[files]]
 file = "config/pl3xmap/config.yml"
-hash = "1266f23877130029d5f0db5d5b20a43759e7e345d2af7921eb1d1f9bb88de99e"
+hash = "c5601630e768b7d83235045e388c9a761f42d0508a67059c9c164dafaf1a093b"
 
 [[files]]
 file = "config/polymer/auto-host.json"

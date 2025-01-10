@@ -158,18 +158,35 @@ world-settings:
       # tile images so you can zoom in further without
       # the extra cost of rendering more tiles.
       max-in: 2
+# Renderers to use. Each renderer will render a different type of map. The value is the icon
+# that the renderer should use in the Web UI. These are any "*.png" files under "web/images/icon/"
+# 
+# The built-in renderers include (key):
+# vintage_story, basic, biomes, flowermap, inhabited, night, nether_roof, and vanilla
+# 
+# The built-in icons include (value):
+# overworld_basic, overworld_biomes, overworld_night,
+# nether_basic, nether_biomes, nether_night, nether_roof,
+# the_end_basic, the_end_biomes, the_end_night,
+# flowermap, inhabited, vanilla
   minecraft:overworld:
     enabled: true
     render:
       renderers:
         vintage_story: overworld_basic
+        night: overworld_night
+        biomes: overworld_biomes
+        flowermap: flowermap
     ui:
       display-name: Overworld
       order: 0
   minecraft:the_nether:
     render:
       renderers:
-        basic: nether_basic
+        vintage_story: nether_basic
+        night: nether_night
+        biomes: nether_biomes
+        nether_roof: nether_roof
       skylight: 0
     ui:
       display-name: The Nether
@@ -177,7 +194,9 @@ world-settings:
   minecraft:the_end:
     render:
       renderers:
-        basic: the_end_basic
+        vintage_story: the_end_basic
+        night: the_end_night
+        biomes: the_end_biomes
       skylight: 0
     ui:
       display-name: The End
