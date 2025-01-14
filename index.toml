@@ -261,11 +261,6 @@ hash = "77cd9d4228c211032037d1718f52520efbbe01f83e0ca49c15caaa3d3c83e2f0"
 metafile = true
 
 [[files]]
-file = "mods/sleep-warp-updated.pw.toml"
-hash = "83d4cc287199088345cb142649b57888c7f43224db023ec0038716ece0e272ec"
-metafile = true
-
-[[files]]
 file = "mods/terralith.pw.toml"
 hash = "c08e1eff99102922cd45510e121a0113309afd745758b1530212affba9e47fed"
 metafile = true
