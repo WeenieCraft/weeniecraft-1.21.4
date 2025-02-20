@@ -167,11 +167,6 @@ hash = "52b25d589bdb56a6b73c086432543f35a8e004cfbefcfb775fb2fd9c74f37962"
 metafile = true
 
 [[files]]
-file = "mods/loot-bags.pw.toml"
-hash = "d46a71a0adb324c10ac3de90ead64875b1e04b982620da0145a07a8565b340da"
-metafile = true
-
-[[files]]
 file = "mods/luckperms.pw.toml"
 hash = "dc628cbc42534db0fc5803f4a74254159fc31f885ca4d3e2521973848391b80d"
 metafile = true
