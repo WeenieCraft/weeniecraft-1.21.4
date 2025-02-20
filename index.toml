@@ -249,11 +249,6 @@ hash = "7025706e3c3bb9191adac64a3eada81bc31711be08b4bdc4324fc05789a2076a"
 metafile = true
 
 [[files]]
-file = "resourcepacks/waystones-rp.pw.toml"
-hash = "95c7e6c6ed4af5454363a7edb05a487deecd27e81bb37da5cb2283eda21cedb6"
-metafile = true
-
-[[files]]
 file = "server.properties"
 hash = "8d16a61f523e0c9dd53247f3db72d8bec821635cf8fabb1725b4f14e1244cdc2"
 
