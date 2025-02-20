@@ -154,6 +154,11 @@ hash = "dc628cbc42534db0fc5803f4a74254159fc31f885ca4d3e2521973848391b80d"
 metafile = true
 
 [[files]]
+file = "mods/mastercutter.pw.toml"
+hash = "60adf150f7380209e32ad83038187e85e64ca619aa1aac25a8ca7225bb80479e"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "541e6cdf655a1da57d66ddc0df0b7d9f83a5424e0aaabd517e1f5ffcf8f9f013"
 metafile = true
