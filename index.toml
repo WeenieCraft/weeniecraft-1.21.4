@@ -255,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "server.properties"
-hash = "a6da4dbc7b333f92c7c54b0c6aa07aa369439ed9c403f89c9c3e016bf6f7cdac"
+hash = "8d16a61f523e0c9dd53247f3db72d8bec821635cf8fabb1725b4f14e1244cdc2"
 
 [[files]]
 file = "world/datapacks/racks.pw.toml"
