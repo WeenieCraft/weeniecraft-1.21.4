@@ -192,11 +192,6 @@ hash = "f8e9596e1c6345dab08b7bcd01a84409fe8a5dff84e01516be89081a3ad982a1"
 metafile = true
 
 [[files]]
-file = "mods/polyfactory.pw.toml"
-hash = "557b69383f43f3ed3a09991dbc2bdac609e5f6a9862d8825c8f8f6cf94941c85"
-metafile = true
-
-[[files]]
 file = "mods/polymer.pw.toml"
 hash = "b1c597e04ce532bda04aa592c54ba39689fe85d4bba5ccab9de30f44de7d2438"
 metafile = true
