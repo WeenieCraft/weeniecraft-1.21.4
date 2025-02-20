@@ -292,11 +292,6 @@ hash = "7025706e3c3bb9191adac64a3eada81bc31711be08b4bdc4324fc05789a2076a"
 metafile = true
 
 [[files]]
-file = "resourcepacks/simpledrawer-rp.pw.toml"
-hash = "d876ac7c1457fb9b53b0d645df85272b6a027b6215ce40dcb6c61cd23732720b"
-metafile = true
-
-[[files]]
 file = "resourcepacks/waystones-rp.pw.toml"
 hash = "95c7e6c6ed4af5454363a7edb05a487deecd27e81bb37da5cb2283eda21cedb6"
 metafile = true
@@ -308,11 +303,6 @@ hash = "a6da4dbc7b333f92c7c54b0c6aa07aa369439ed9c403f89c9c3e016bf6f7cdac"
 [[files]]
 file = "world/datapacks/racks.pw.toml"
 hash = "3d4e74e8961548fb21878b786c39c298f6951b2d0bd16b912e12076c4d3beb5e"
-metafile = true
-
-[[files]]
-file = "world/datapacks/simpledrawer.pw.toml"
-hash = "9754f2baa74d6acfb8b79cace82ac97d036655e31486d319e40e7e516c62db82"
 metafile = true
 
 [[files]]

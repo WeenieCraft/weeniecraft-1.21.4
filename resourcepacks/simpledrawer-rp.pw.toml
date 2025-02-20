@@ -1,8 +1,0 @@
-name = "SimpleDrawer Resource Pack"
-filename = "SimpleDrawer-v2.4.1-Resourcepack-Bundled.zip"
-side = "server"
-
-[download]
-url = "https://cdn.modrinth.com/data/JmCxCKiW/versions/s5BQQuMq/SimpleDrawer-v2.4.1-Resourcepack-Bundled.zip"
-hash-format = "sha1"
-hash = "be60c7f15062de263d9e62c398fcfef54a57978b"
