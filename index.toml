@@ -21,14 +21,6 @@ file = "config/pl3xmap/config.yml"
 hash = "c5601630e768b7d83235045e388c9a761f42d0508a67059c9c164dafaf1a093b"
 
 [[files]]
-file = "config/polymer/auto-host.json"
-hash = "0d4128c6c0dd3ff7920a56e1c71bb081fce116c1373e98e6a1c93d38043cbab4"
-
-[[files]]
-file = "config/polymer/resource-pack.json"
-hash = "25b09bb0241f2a82366d7e4c50eabe975748db31a1c29fa1761454bfcf3e4b96"
-
-[[files]]
 file = "config/towns_and_towers/structure_rarity_new.json5"
 hash = "51412244d1c63750310801df71ab96175df919195852f501278ca76923bce804"
 
