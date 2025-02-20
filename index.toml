@@ -172,11 +172,6 @@ hash = "3e860486f2247f0bb5a98d63fddeb78c60ef88135ccad5e3c47df5805d72324d"
 metafile = true
 
 [[files]]
-file = "mods/nemos-blooming-blossom.pw.toml"
-hash = "66ebb55465d2b88b540477eaf8a2d8eeb2ba0f4085cd9c690466696aa7836f60"
-metafile = true
-
-[[files]]
 file = "mods/neoenchant.pw.toml"
 hash = "699bc1e4726b93ed8df404e1a5152a8b0dd34644172f77da97a81cf4b720b09c"
 metafile = true
