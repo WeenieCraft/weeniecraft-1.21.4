@@ -1,13 +1,13 @@
 name = "Bound!"
-filename = "bound!-1.2.jar"
+filename = "bound!-1.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/5u5wg6uM/versions/Ep3icpVg/bound%21-1.2.jar"
+url = "https://cdn.modrinth.com/data/5u5wg6uM/versions/ToxVpjWO/bound%21-1.4.jar"
 hash-format = "sha1"
-hash = "8b5d638e2eff587b684e00b6d36ef9eafca7d75d"
+hash = "bd9055a3dc5d24b78593317933e18b64b5327975"
 
 [update]
 [update.modrinth]
 mod-id = "5u5wg6uM"
-version = "Ep3icpVg"
+version = "ToxVpjWO"

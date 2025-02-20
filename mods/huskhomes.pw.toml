@@ -1,13 +1,13 @@
 name = "HuskHomes"
-filename = "HuskHomes-Fabric-4.8.3+mc.1.21.4.jar"
+filename = "HuskHomes-Fabric-4.9.3-e913b04+mc.1.21.4.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/J6U9o3JG/versions/nBgOVXKi/HuskHomes-Fabric-4.8.3%2Bmc.1.21.4.jar"
-hash-format = "sha256"
-hash = "26A062A4A14DE244E37A2FC4450FB27CE34B74B17B01B8412F6FF028418E8629"
+url = "https://cdn.modrinth.com/data/J6U9o3JG/versions/jQ7NU6Zw/HuskHomes-Fabric-4.9.3-e913b04%2Bmc.1.21.4.jar"
+hash-format = "sha1"
+hash = "3a2db385510586491a3c0fc7240a9355f42eca21"
 
 [update]
 [update.modrinth]
 mod-id = "J6U9o3JG"
-version = "nBgOVXKi"
+version = "jQ7NU6Zw"
