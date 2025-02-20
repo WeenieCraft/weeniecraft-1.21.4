@@ -1,6 +1,6 @@
 name = "WeenieCraft 1.21.4"
 author = "Morgan H."
-version = "1.0.0"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -9,5 +9,5 @@ hash-format = "sha256"
 hash = "a07bd7f600a55e27b92731a88dec6ac1035b628815b0511ace92229337b4f068"
 
 [versions]
-fabric = "0.16.9"
+fabric = "0.16.10"
 minecraft = "1.21.4"
