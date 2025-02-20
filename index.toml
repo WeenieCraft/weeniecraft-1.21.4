@@ -122,11 +122,6 @@ hash = "4b076b33ee9c71ddf9997db17b82391d4a3f7841cb640dc1c6c39855c93f0544"
 metafile = true
 
 [[files]]
-file = "mods/fast-path.pw.toml"
-hash = "045a72109f2ced0d72c3fa99799f84c8e8317b0f815551ccded619ed480e540b"
-metafile = true
-
-[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "ada74e6d4149631f2b442d2f0061b0179feef576bbf4b5cd28bbcc7de1380b7e"
 metafile = true
