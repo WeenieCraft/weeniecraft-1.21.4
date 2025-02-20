@@ -77,11 +77,6 @@ hash = "3a02574eff027a7977af26d1987fb41d40dd48925fff6781c67ec34aadb8eb07"
 metafile = true
 
 [[files]]
-file = "mods/catenary.pw.toml"
-hash = "5f43f31b3753239a93c74dfcb47c7892516b6d03d6d0ac340dbafb5bb9af36b7"
-metafile = true
-
-[[files]]
 file = "mods/chunky.pw.toml"
 hash = "01735a9d638c8fb4896c1a700eff0954aff8b854b517036bd9688e1d1754a7af"
 metafile = true
