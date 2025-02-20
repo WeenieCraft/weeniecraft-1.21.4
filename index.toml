@@ -192,11 +192,6 @@ hash = "f8e9596e1c6345dab08b7bcd01a84409fe8a5dff84e01516be89081a3ad982a1"
 metafile = true
 
 [[files]]
-file = "mods/polydecorations.pw.toml"
-hash = "c441c0828e962045f81ec1e78644a03da9a42e2b718a25f925f00eba6b540e0e"
-metafile = true
-
-[[files]]
 file = "mods/polyfactory.pw.toml"
 hash = "557b69383f43f3ed3a09991dbc2bdac609e5f6a9862d8825c8f8f6cf94941c85"
 metafile = true
