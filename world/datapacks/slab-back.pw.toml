@@ -1,13 +1,13 @@
 name = "slab back"
-filename = "slab-back 1.6.0.zip"
+filename = "slab-back-1.6.0.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/l0JYwJHY/versions/yUz77GXc/slab-back%201.6.0.zip"
+url = "https://cdn.modrinth.com/data/l0JYwJHY/versions/GoKBjTPF/slab-back-1.6.0.jar"
 hash-format = "sha1"
-hash = "3c9e6b537ca7c77c28ca3014fa67566b49805a69"
+hash = "ebba38efdb318b1bbe2082dd6b02cf1e433cf2ff"
 
 [update]
 [update.modrinth]
 mod-id = "l0JYwJHY"
-version = "yUz77GXc"
+version = "GoKBjTPF"
